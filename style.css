@@ -1,0 +1,11 @@
+/* this shows we want to assign the color property for <h1> to blue and the text property to center of the screen */
+/* this will take affect to all html files libk to this stylesheet */
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+p {
+  color:red;
+  text-align:center;
+}
